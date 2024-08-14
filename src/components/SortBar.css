@@ -1,0 +1,32 @@
+/* SortBar.css */
+.sort-bar {
+    display: flex;
+    align-items: center;
+    margin: 1rem 0;
+    padding: 0.5rem;
+    background-color: #f4f4f4; /* Light background for contrast */
+    border-radius: 4px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .sort-bar label {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-right: 1rem; /* Space between label and dropdown */
+  }
+  
+  .sort-bar select {
+    font-size: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 4px; /* Rounded corners */
+    background-color: #fff; /* White background for the dropdown */
+    cursor: pointer; /* Pointer cursor to indicate a clickable element */
+  }
+  
+  .sort-bar select:focus {
+    outline: none; /* Remove default focus outline */
+    border-color: #007bff; /* Change border color on focus */
+    box-shadow: 0 0 0 3px rgba(38, 143, 255, 0.25); /* Add a shadow for better focus indication */
+  }
+  

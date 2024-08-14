@@ -12,98 +12,11 @@ code {
     monospace;
 }
 
-/* styles.css */
-
-/* General Styles */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
-}
-
-/* Bot Card Styles */
-.bot-card {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  margin: 10px;
-  padding: 16px;
-  width: 250px;
-  text-align: center;
-  transition: transform 0.2s;
-}
-
-.bot-card img {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-.bot-card h3 {
-  margin: 10px 0;
-  font-size: 1.2em;
-}
-
-.bot-card p {
-  margin: 5px 0;
-  color: #555;
-}
-
-.bot-card button {
-  margin: 5px;
-  padding: 8px 12px;
-  border: none;
-  border-radius: 4px;
-  color: #fff;
-  background-color: #007bff;
-  cursor: pointer;
-  transition: background-color 0.2s;
-}
-
-.bot-card button:hover {
-  background-color: #0056b3;
-}
-
-.bot-card button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
-}
-
-.bot-card:hover {
-  transform: scale(1.05);
-}
-
-/* Bot Collection Styles */
-.bot-collection {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 20px;
-}
-
-/* Your Bot Army Styles */
-.your-bot-army {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 20px;
-  background-color: #e9ecef;
-}
-
-.your-bot-army .bot-card {
-  border-color: #28a745;
-  background-color: #d4edda;
-}
-
-.your-bot-army .bot-card button {
-  background-color: #dc3545;
-}
-
-.your-bot-army .bot-card button:hover {
-  background-color: #c82333;
 }
 
 /* Responsive Design */

@@ -1,0 +1,21 @@
+.your-bot-army {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    background-color: #e9ecef;
+  }
+  
+  .your-bot-army .bot-card {
+    border-color: #28a745;
+    background-color: #d4edda;
+  }
+  
+  .your-bot-army .bot-card button {
+    background-color: #dc3545;
+  }
+  
+  .your-bot-army .bot-card button:hover {
+    background-color: #c82333;
+  }
+  
