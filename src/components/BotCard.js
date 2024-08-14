@@ -13,6 +13,7 @@ const BotCard = ({ bot, onClick, onDelete }) => (
     <p>Class: {bot.bot_class}</p>
     <p>{bot.catchphrase}</p>
     
+    
     {/* Button to add the bot to the army */}
     {/* Calls the onClick function passed as a prop with the bot object as an argument */}
     <button onClick={() => onClick(bot)}>Add to Army</button>
