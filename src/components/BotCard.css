@@ -40,7 +40,7 @@
 }
 
 .bot-card button:hover {
-  background-color: #0056b3;
+  background-color:red;
 }
 
 .bot-card button:disabled {
@@ -54,7 +54,7 @@
 
   
   .delete-btn {
-    background-color: red;
+    background-color: blue;
     color: white;
     border: none;
     border-radius: 50%;
