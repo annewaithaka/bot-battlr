@@ -1,3 +1,4 @@
+
 {
   "bots": [
     {
@@ -71,6 +72,18 @@
       "avatar_url": "https://robohash.org/etutprovident.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:10.887Z",
       "updated_at": "2018-10-02T19:55:10.887Z"
+    },
+    {
+      "id": 107,
+      "name": "XSf-63",
+      "health": 97,
+      "damage": 26,
+      "armor": 58,
+      "bot_class": "Support",
+      "catchphrase": "0010110001011100111100101010101000",
+      "avatar_url": "https://robohash.org/accusantiumetfacilis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.899Z",
+      "updated_at": "2018-10-02T19:55:10.899Z"
     },
     {
       "id": 108,
@@ -565,6 +578,18 @@
       "updated_at": "2018-10-02T19:55:11.781Z"
     },
     {
+      "id": 149,
+      "name": "I-18",
+      "health": 98,
+      "damage": 33,
+      "armor": 51,
+      "bot_class": "Support",
+      "catchphrase": "0011010000110100010110011001001010101000100001101",
+      "avatar_url": "https://robohash.org/sedofficiadeserunt.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.795Z",
+      "updated_at": "2018-10-02T19:55:11.795Z"
+    },
+    {
       "id": 150,
       "name": "St-74",
       "health": 89,
@@ -817,6 +842,18 @@
       "updated_at": "2018-10-02T19:55:12.072Z"
     },
     {
+      "id": 171,
+      "name": "`ux-06",
+      "health": 49,
+      "damage": 100,
+      "armor": 35,
+      "bot_class": "Assault",
+      "catchphrase": "0010011110010110000100111001100111011001",
+      "avatar_url": "https://robohash.org/inventoreisteut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.090Z",
+      "updated_at": "2018-10-02T19:55:12.090Z"
+    },
+    {
       "id": 172,
       "name": "^zW-05",
       "health": 43,
@@ -923,6 +960,18 @@
       "avatar_url": "https://robohash.org/invelitmaiores.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:12.230Z",
       "updated_at": "2018-10-02T19:55:12.230Z"
+    },
+    {
+      "id": 181,
+      "name": "J-87",
+      "health": 97,
+      "damage": 40,
+      "armor": 72,
+      "bot_class": "Support",
+      "catchphrase": "1111000010010001110101100101010",
+      "avatar_url": "https://robohash.org/architectocorruptiaccusantium.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.245Z",
+      "updated_at": "2018-10-02T19:55:12.245Z"
     },
     {
       "id": 182,

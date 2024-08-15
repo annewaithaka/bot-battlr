@@ -20,14 +20,3 @@ body {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
-  .bot-card {
-    width: 200px;
-    padding: 12px;
-  }
-
-  .bot-card img {
-    width: 80px;
-    height: 80px;
-  }
-}
