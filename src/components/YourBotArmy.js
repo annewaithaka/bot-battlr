@@ -15,4 +15,5 @@ const YourBotArmy = ({ bots, onRemoveBot }) => (
   </div>
 );
 
+
 export default YourBotArmy; // Export the YourBotArmy component as the default export
